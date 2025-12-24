@@ -1,0 +1,7 @@
+{
+  "name": "VSCode Hand-Tracking Challenge",
+  "description": "A high-intensity, VSCode-themed arcade game where you use hand-tracking to destroy flashing bugs and balls.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
